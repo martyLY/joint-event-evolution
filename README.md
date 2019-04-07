@@ -33,5 +33,5 @@ JEE/
 ├── data
 │   └── weibo
 │       └── CNESC.txt: docuemnts set,the first line is (story_id, event_id ,title, content, keyword, time)
-├── README.md
+└── README.md
 ```
