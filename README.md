@@ -14,10 +14,10 @@
 JEE/
 ├── code
 │   ├── evaluation
-│   │   ├── evalu.py: evaluate the performance of event cluster and evolution
+│   │   └── evalu.py: evaluate the performance of event cluster and evolution
 │   ├── models
 │   │   ├── model.py: the model with some functions
-│   │   ├── similar.py: the simalarity between docuemnts or events
+│   │   └── similar.py: the simalarity between docuemnts or events
 │   ├── preData
 │   │   └── data_loader.py: load the data from CNESC.txt 
 │   ├── class
