@@ -1,5 +1,5 @@
 # joint-event-evolution
-## Source code for paper "JEDE: Jointly Event Detection and Evolution Model via Siamese GRU Attention Network"
+## Source code for paper "JEDE: Joint Event Detection and Evolution Model via Siamese GRU Attention Network"
 ## Requirements
 <ol>
   <li>Python 3.6</li>
