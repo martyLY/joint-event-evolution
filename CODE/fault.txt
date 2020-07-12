@@ -1,0 +1,5 @@
+1.TypeError: cannot unpack non-iterable document object
+1.原因在于，最终所被调用的函数所返回的值，和返回值赋值给的变量，不匹配
+
+2.输入标点符号处理
+
